@@ -77,6 +77,10 @@ C:\Users\AB\hermes-work\data_projects\20251121_ECOMM_CaseStudy + GitHub
 2. Install dependencies: `pip install pandas numpy matplotlib seaborn pandas-profiling`
 3. Open `ECommerceSaleAnalysis-230719-141622.ipynb` in Jupyter
 
+## Live App
+
+- **E-Commerce Sale Analysis Dashboard:** https://ecomm-dash.streamlit.app/
+
 ## About
 
 This case study was completed as part of a data analytics certification program, focusing on customer analytics and business intelligence for an e-commerce context.
